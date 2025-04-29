@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.xxx{
+    background-color: #311313;
+    color: white;
+    text-align: center;
+
+    align-items: center;
+}
+.xxxx{
+    border: 20px solid red;
+    background-color: black;
+    color: white;
+    width: 1000px;
+    height: 638px;
+}
+.xxxxx{
+    background-color: aqua;
+    
+    width: 896px;
+    height: 259px;
+    margin: 0 auto;
+    margin: 30px 30px;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+
+
+}
+.xx{
+    background-color: aqua;
+    margin: 10px 10px;
+    width: 896px;
+    height: 259px;
+    margin: 0 auto;
+    margin: 30px 30px;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+
